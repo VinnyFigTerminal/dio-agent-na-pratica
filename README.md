@@ -74,24 +74,34 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
+A cópia pública foi criada com **Use this template**. O DIO Agent foi baixado com Git e o Codex CLI foi iniciado na pasta que contém `AGENTS.md`. O cliente encerrou na inicialização com erro de sistema de arquivos somente leitura, antes de responder aos prompts.
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+Captura pendente. Use o prompt de apresentação da etapa 1.
 
 ### Estudar
 
-_Cole o print da explicação._
+Captura pendente. Use o prompt da etapa 2 e peça um exemplo simples de como o agente escolhe uma skill.
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+Captura pendente. Use o desafio da etapa 3 e peça uma dica para acompanhar a variável `soma` a cada volta com `N = 3`, sem pedir a solução pronta.
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+Captura pendente. Prompt preparado para uma trilha prática personalizada. Você pode trocar os tópicos pelos módulos da sua formação.
+
+```text
+Quero montar um plano de estudos de JavaScript.
+Minha trilha de prática é personalizada: variáveis e condicionais,
+laços e funções, arrays e objetos, e um painel simples.
+Objetivo: concluir em 4 semanas.
+Meu nível: iniciante em JavaScript.
+Tempo: 1 hora por dia, de segunda a sexta.
+Dê um plano por semana com prática, entrega e critério de conclusão.
+```
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+O teste local confirmou a presença de `AGENTS.md` na cópia do agente. A reflexão sobre as interações fica para depois das quatro etapas.
